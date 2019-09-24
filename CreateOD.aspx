@@ -19,7 +19,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.0.0/es6-promise.min.js"></script>									
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.4/fetch.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-polyfills/0.1.42/polyfill.min.js"></script>
-    <script type="text/javascript" src="js/createOD.js"</script>
+    <script type="text/javascript" src="createOD.js"</script>
  </head>
 <body>
     <form runat="server">
